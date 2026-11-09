@@ -1,0 +1,16 @@
+# Raw data (download from Kaggle, see data/README.md)
+data/*.csv
+*.csv
+
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
+
+# macOS
+.DS_Store
